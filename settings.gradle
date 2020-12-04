@@ -1,2 +1,3 @@
+include ':consecutivescrollerkt'
 include ':app', ':consecutivescroller'
 rootProject.name='ConsecutiveScroller'
