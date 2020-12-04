@@ -21,9 +21,12 @@ allprojects {
    }
 ```
 在Module的build.gradle在添加以下代码
-```groovy
+
 // 使用了Androidx
 implementation 'com.github.thatCbin:ConsecutiveScroller:1.0.0'
+
+// 使用了KotlinX
+implementation 'com.github.thatCbin:ConsecutiveScroller:kt.1.0.0'
 
 
 **注意：** 如果你准备使用这个库，请务必认真阅读下面的文档。它能让你了解ConsecutiveScrollerLayout可以实现的功能，以及避免不必要的错误。
