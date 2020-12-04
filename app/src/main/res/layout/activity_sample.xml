@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<com.donkingliang.consecutivescroller.ConsecutiveScrollerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.thatcbin.consecutivescroller.ConsecutiveScrollerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/scrollerLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -189,7 +189,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
-    <com.donkingliang.consecutivescroller.ConsecutiveScrollerLayout
+    <com.thatcbin.consecutivescroller.ConsecutiveScrollerLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/design_default_color_primary">
@@ -207,7 +207,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
-    </com.donkingliang.consecutivescroller.ConsecutiveScrollerLayout>
+    </com.thatcbin.consecutivescroller.ConsecutiveScrollerLayout>
 
-</com.donkingliang.consecutivescroller.ConsecutiveScrollerLayout>
+</com.thatcbin.consecutivescroller.ConsecutiveScrollerLayout>
 

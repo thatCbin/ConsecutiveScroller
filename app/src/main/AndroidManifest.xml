@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.donkingliang.consecutivescrollerdemo">
+    package="com.thatcbin.consecutivescrollerdemo">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,14 +11,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ConsecutiveActivity"/>
-        <activity android:name=".StickyActivity" />
-        <activity android:name=".SinkStickyActivity" />
-        <activity android:name=".SampleActivity" />
-        <activity android:name=".ViewPagerActivity" />
-        <activity android:name=".PermanentStickyActivity" />
-        <activity android:name=".FragmentActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.ConsecutiveActivity"/>
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.StickyActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.SinkStickyActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.SampleActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.ViewPagerActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.PermanentStickyActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.FragmentActivity" />
+        <activity android:name="com.thatcbin.consecutivescrollerdemo.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
