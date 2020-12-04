@@ -4,8 +4,9 @@
 
 #### 效果图
 
-![sample](https://upload-images.jianshu.io/upload_images/2365010-1d0ebf289428ce8c.gif?imageMogr2/auto-orient/strip) 
-![sticky](https://upload-images.jianshu.io/upload_images/2365010-f2b64d20022d2566.gif?imageMogr2/auto-orient/strip)
+![a](https://github.com/thatCbin/ConsecutiveScroller/blob/master/image/a.gif)
+![b](https://github.com/thatCbin/ConsecutiveScroller/blob/master/image/b.gif)
+![c](https://github.com/thatCbin/ConsecutiveScroller/blob/master/image/c.gif)
 
 ### 引入依赖
 
