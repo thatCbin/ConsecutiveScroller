@@ -23,13 +23,8 @@ allprojects {
 在Module的build.gradle在添加以下代码
 ```groovy
 // 使用了Androidx
-implementation 'com.github.donkingliang:ConsecutiveScroller:4.3.1'
+implementation 'com.github.thatCbin:ConsecutiveScroller:1.0.0'
 
-// 或者
-
-// 使用Android support包
-implementation 'com.github.donkingliang:ConsecutiveScroller:4.3.1-support'
-```
 
 **注意：** 如果你准备使用这个库，请务必认真阅读下面的文档。它能让你了解ConsecutiveScrollerLayout可以实现的功能，以及避免不必要的错误。
 
@@ -604,3 +599,5 @@ webView.setWebChromeClient(new WebChromeClient() {
 5、使用ConsecutiveScrollerLayout提供的setOnVerticalScrollChangeListener()方法监听布局的滑动事件。View所提供的setOnScrollChangeListener()方法已无效。
 
 6、通过getOwnScrollY()方法获取ConsecutiveScrollerLayout的垂直滑动距离，View的getScrollY()方法获取的不是ConsecutiveScrollerLayout的整体滑动距离。
+
+### 鸣谢  感谢原作者donkingliang提供的开源代码   https://github.com/donkingliang/
