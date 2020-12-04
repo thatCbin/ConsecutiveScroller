@@ -22,6 +22,8 @@ allprojects {
 ```
 在Module的build.gradle在添加以下代码
 
+[![](https://jitpack.io/v/thatCbin/ConsecutiveScroller.svg)](https://jitpack.io/#thatCbin/ConsecutiveScroller)
+
 // 使用了Androidx
 implementation 'com.github.thatCbin:ConsecutiveScroller:1.0.0'
 
